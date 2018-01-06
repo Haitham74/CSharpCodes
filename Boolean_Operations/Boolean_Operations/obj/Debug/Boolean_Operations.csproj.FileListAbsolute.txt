@@ -1,0 +1,7 @@
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Boolean_Operations\Boolean_Operations\bin\Debug\Boolean_Operations.exe.config
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Boolean_Operations\Boolean_Operations\bin\Debug\Boolean_Operations.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Boolean_Operations\Boolean_Operations\bin\Debug\Boolean_Operations.pdb
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Boolean_Operations\Boolean_Operations\obj\Debug\Boolean_Operations.csprojResolveAssemblyReference.cache
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Boolean_Operations\Boolean_Operations\obj\Debug\Boolean_Operations.csproj.CoreCompileInputs.cache
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Boolean_Operations\Boolean_Operations\obj\Debug\Boolean_Operations.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Boolean_Operations\Boolean_Operations\obj\Debug\Boolean_Operations.pdb
