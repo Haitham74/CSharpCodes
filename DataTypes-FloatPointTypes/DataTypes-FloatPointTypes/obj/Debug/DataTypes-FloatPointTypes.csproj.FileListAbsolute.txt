@@ -1,0 +1,7 @@
+C:\Users\haith\Desktop\Viusal C Sharp Practice\DataTypes-FloatPointTypes\DataTypes-FloatPointTypes\bin\Debug\DataTypes-FloatPointTypes.exe.config
+C:\Users\haith\Desktop\Viusal C Sharp Practice\DataTypes-FloatPointTypes\DataTypes-FloatPointTypes\bin\Debug\DataTypes-FloatPointTypes.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\DataTypes-FloatPointTypes\DataTypes-FloatPointTypes\bin\Debug\DataTypes-FloatPointTypes.pdb
+C:\Users\haith\Desktop\Viusal C Sharp Practice\DataTypes-FloatPointTypes\DataTypes-FloatPointTypes\obj\Debug\DataTypes-FloatPointTypes.csprojResolveAssemblyReference.cache
+C:\Users\haith\Desktop\Viusal C Sharp Practice\DataTypes-FloatPointTypes\DataTypes-FloatPointTypes\obj\Debug\DataTypes-FloatPointTypes.csproj.CoreCompileInputs.cache
+C:\Users\haith\Desktop\Viusal C Sharp Practice\DataTypes-FloatPointTypes\DataTypes-FloatPointTypes\obj\Debug\DataTypes-FloatPointTypes.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\DataTypes-FloatPointTypes\DataTypes-FloatPointTypes\obj\Debug\DataTypes-FloatPointTypes.pdb
