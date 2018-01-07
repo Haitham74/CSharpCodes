@@ -1,0 +1,7 @@
+C:\Users\haith\Desktop\Viusal C Sharp Practice\MathematicsOperations\MathematicsOperations\bin\Debug\MathematicsOperations.exe.config
+C:\Users\haith\Desktop\Viusal C Sharp Practice\MathematicsOperations\MathematicsOperations\bin\Debug\MathematicsOperations.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\MathematicsOperations\MathematicsOperations\bin\Debug\MathematicsOperations.pdb
+C:\Users\haith\Desktop\Viusal C Sharp Practice\MathematicsOperations\MathematicsOperations\obj\Debug\MathematicsOperations.csprojResolveAssemblyReference.cache
+C:\Users\haith\Desktop\Viusal C Sharp Practice\MathematicsOperations\MathematicsOperations\obj\Debug\MathematicsOperations.csproj.CoreCompileInputs.cache
+C:\Users\haith\Desktop\Viusal C Sharp Practice\MathematicsOperations\MathematicsOperations\obj\Debug\MathematicsOperations.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\MathematicsOperations\MathematicsOperations\obj\Debug\MathematicsOperations.pdb
