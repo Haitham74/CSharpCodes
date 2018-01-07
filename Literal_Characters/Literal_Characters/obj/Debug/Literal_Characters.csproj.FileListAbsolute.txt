@@ -1,0 +1,7 @@
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Literal_Characters\Literal_Characters\bin\Debug\Literal_Characters.exe.config
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Literal_Characters\Literal_Characters\bin\Debug\Literal_Characters.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Literal_Characters\Literal_Characters\bin\Debug\Literal_Characters.pdb
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Literal_Characters\Literal_Characters\obj\Debug\Literal_Characters.csprojResolveAssemblyReference.cache
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Literal_Characters\Literal_Characters\obj\Debug\Literal_Characters.csproj.CoreCompileInputs.cache
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Literal_Characters\Literal_Characters\obj\Debug\Literal_Characters.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Literal_Characters\Literal_Characters\obj\Debug\Literal_Characters.pdb
