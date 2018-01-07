@@ -1,0 +1,7 @@
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Epressions\Epressions\bin\Debug\Epressions.exe.config
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Epressions\Epressions\bin\Debug\Epressions.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Epressions\Epressions\bin\Debug\Epressions.pdb
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Epressions\Epressions\obj\Debug\Epressions.csprojResolveAssemblyReference.cache
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Epressions\Epressions\obj\Debug\Epressions.csproj.CoreCompileInputs.cache
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Epressions\Epressions\obj\Debug\Epressions.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Epressions\Epressions\obj\Debug\Epressions.pdb
