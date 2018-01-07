@@ -1,0 +1,7 @@
+C:\Users\haith\Desktop\Viusal C Sharp Practice\StringType\StringType\bin\Debug\StringType.exe.config
+C:\Users\haith\Desktop\Viusal C Sharp Practice\StringType\StringType\bin\Debug\StringType.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\StringType\StringType\bin\Debug\StringType.pdb
+C:\Users\haith\Desktop\Viusal C Sharp Practice\StringType\StringType\obj\Debug\StringType.csprojResolveAssemblyReference.cache
+C:\Users\haith\Desktop\Viusal C Sharp Practice\StringType\StringType\obj\Debug\StringType.csproj.CoreCompileInputs.cache
+C:\Users\haith\Desktop\Viusal C Sharp Practice\StringType\StringType\obj\Debug\StringType.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\StringType\StringType\obj\Debug\StringType.pdb
