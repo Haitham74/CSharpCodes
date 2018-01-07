@@ -1,0 +1,7 @@
+C:\Users\haith\Desktop\Viusal C Sharp Practice\MyVariables\MyVariables\bin\Debug\MyVariables.exe.config
+C:\Users\haith\Desktop\Viusal C Sharp Practice\MyVariables\MyVariables\bin\Debug\MyVariables.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\MyVariables\MyVariables\bin\Debug\MyVariables.pdb
+C:\Users\haith\Desktop\Viusal C Sharp Practice\MyVariables\MyVariables\obj\Debug\MyVariables.csprojResolveAssemblyReference.cache
+C:\Users\haith\Desktop\Viusal C Sharp Practice\MyVariables\MyVariables\obj\Debug\MyVariables.csproj.CoreCompileInputs.cache
+C:\Users\haith\Desktop\Viusal C Sharp Practice\MyVariables\MyVariables\obj\Debug\MyVariables.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\MyVariables\MyVariables\obj\Debug\MyVariables.pdb
