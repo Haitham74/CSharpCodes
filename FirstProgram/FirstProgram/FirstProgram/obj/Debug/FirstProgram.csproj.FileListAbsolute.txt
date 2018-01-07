@@ -1,0 +1,7 @@
+C:\Users\haith\Desktop\Viusal C Sharp Practice\FirstProgram\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe.config
+C:\Users\haith\Desktop\Viusal C Sharp Practice\FirstProgram\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\FirstProgram\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
+C:\Users\haith\Desktop\Viusal C Sharp Practice\FirstProgram\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csprojResolveAssemblyReference.cache
+C:\Users\haith\Desktop\Viusal C Sharp Practice\FirstProgram\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\haith\Desktop\Viusal C Sharp Practice\FirstProgram\FirstProgram\FirstProgram\obj\Debug\FirstProgram.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\FirstProgram\FirstProgram\FirstProgram\obj\Debug\FirstProgram.pdb
