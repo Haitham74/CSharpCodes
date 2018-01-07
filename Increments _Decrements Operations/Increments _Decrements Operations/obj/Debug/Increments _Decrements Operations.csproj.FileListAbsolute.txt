@@ -1,0 +1,6 @@
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Increments _Decrements Operations\Increments _Decrements Operations\bin\Debug\Increments _Decrements Operations.exe.config
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Increments _Decrements Operations\Increments _Decrements Operations\bin\Debug\Increments _Decrements Operations.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Increments _Decrements Operations\Increments _Decrements Operations\bin\Debug\Increments _Decrements Operations.pdb
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Increments _Decrements Operations\Increments _Decrements Operations\obj\Debug\Increments _Decrements Operations.csproj.CoreCompileInputs.cache
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Increments _Decrements Operations\Increments _Decrements Operations\obj\Debug\Increments _Decrements Operations.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\Increments _Decrements Operations\Increments _Decrements Operations\obj\Debug\Increments _Decrements Operations.pdb
