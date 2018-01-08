@@ -1,0 +1,7 @@
+C:\Users\haith\Desktop\Viusal C Sharp Practice\SwitchStatement\SwitchStatement\bin\Debug\SwitchStatement.exe.config
+C:\Users\haith\Desktop\Viusal C Sharp Practice\SwitchStatement\SwitchStatement\bin\Debug\SwitchStatement.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\SwitchStatement\SwitchStatement\bin\Debug\SwitchStatement.pdb
+C:\Users\haith\Desktop\Viusal C Sharp Practice\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.csprojResolveAssemblyReference.cache
+C:\Users\haith\Desktop\Viusal C Sharp Practice\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\haith\Desktop\Viusal C Sharp Practice\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.pdb
