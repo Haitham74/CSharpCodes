@@ -1,0 +1,7 @@
+C:\Users\haith\Desktop\Viusal C Sharp Practice\TernaryCondition\TernaryCondition\bin\Debug\TernaryCondition.exe.config
+C:\Users\haith\Desktop\Viusal C Sharp Practice\TernaryCondition\TernaryCondition\bin\Debug\TernaryCondition.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\TernaryCondition\TernaryCondition\bin\Debug\TernaryCondition.pdb
+C:\Users\haith\Desktop\Viusal C Sharp Practice\TernaryCondition\TernaryCondition\obj\Debug\TernaryCondition.csprojResolveAssemblyReference.cache
+C:\Users\haith\Desktop\Viusal C Sharp Practice\TernaryCondition\TernaryCondition\obj\Debug\TernaryCondition.csproj.CoreCompileInputs.cache
+C:\Users\haith\Desktop\Viusal C Sharp Practice\TernaryCondition\TernaryCondition\obj\Debug\TernaryCondition.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\TernaryCondition\TernaryCondition\obj\Debug\TernaryCondition.pdb
