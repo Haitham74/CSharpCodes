@@ -1,0 +1,7 @@
+C:\Users\haith\Desktop\Viusal C Sharp Practice\BreakLoop\BreakLoop\bin\Debug\BreakLoop.exe.config
+C:\Users\haith\Desktop\Viusal C Sharp Practice\BreakLoop\BreakLoop\bin\Debug\BreakLoop.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\BreakLoop\BreakLoop\bin\Debug\BreakLoop.pdb
+C:\Users\haith\Desktop\Viusal C Sharp Practice\BreakLoop\BreakLoop\obj\Debug\BreakLoop.csprojResolveAssemblyReference.cache
+C:\Users\haith\Desktop\Viusal C Sharp Practice\BreakLoop\BreakLoop\obj\Debug\BreakLoop.csproj.CoreCompileInputs.cache
+C:\Users\haith\Desktop\Viusal C Sharp Practice\BreakLoop\BreakLoop\obj\Debug\BreakLoop.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\BreakLoop\BreakLoop\obj\Debug\BreakLoop.pdb
