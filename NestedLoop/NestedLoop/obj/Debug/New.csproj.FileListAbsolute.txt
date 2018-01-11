@@ -1,0 +1,6 @@
+C:\Users\haith\Desktop\Viusal C Sharp Practice\New\New\bin\Debug\New.exe.config
+C:\Users\haith\Desktop\Viusal C Sharp Practice\New\New\bin\Debug\New.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\New\New\bin\Debug\New.pdb
+C:\Users\haith\Desktop\Viusal C Sharp Practice\New\New\obj\Debug\New.csproj.CoreCompileInputs.cache
+C:\Users\haith\Desktop\Viusal C Sharp Practice\New\New\obj\Debug\New.exe
+C:\Users\haith\Desktop\Viusal C Sharp Practice\New\New\obj\Debug\New.pdb
